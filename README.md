@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="dev.gif"  />
+<img align="right" height="180" src="https://raw.githubusercontent.com/shivamcodelog/shivamcodelog/main/dev.gif"  />
 
 ###
 
