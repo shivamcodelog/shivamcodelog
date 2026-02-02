@@ -1,4 +1,20 @@
-<h2 align="left">hello, i am shivam  , student at DTU</h2>
+<h3 align="left">
+  
+Mechanical Engineer @ DTU | Developer | Futurist</h3>
+<h3>Building the bridge between AI, Robotics, and Biotechnology.</h3>
+
+<h4>
+
+🛠  Main Stacks: MERN, React Native, Computer Vision(OpenCV/MediaPipe), n8n,Fusion360.
+
+🔭 Current Focus:Full Stack and Android App Dev
+
+🧠 Vision: Fusing AI with biology to transcend human limits (BCI & Bionics).
+
+⚡ Open For: Freelance Website & App Development , Web Scraping , Automation projects. 
+
+</h4>
+
 
 ###
 
@@ -67,6 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ###
