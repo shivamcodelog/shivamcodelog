@@ -23,18 +23,16 @@
 ```yaml
 name: "Shivam"
 location: "Delhi Technological University 🏛️"
-role: "Digital Architect & Code Ronin"
+role: "always learning new things"
   
 current_quest:
   - Full Stack Development
   - Android App Creation
   - AI/ML Integration
+  - Web Scraping and Automation ( n8n)
+  - CAD Fusion 360
   
-philosophy: |
-  "The code flows like water,
-   adapting to every obstacle,
-   yet powerful enough to
-   carve mountains."
+
 ```
 
 </td>
@@ -115,21 +113,24 @@ philosophy: |
 ```javascript
 const shivam = {
     
-    code: ["JavaScript", "Python", "C++"],
+    code: ["JavaScript", "Python", "C"],
     
     technologies: {
         frontEnd: {
             js: ["React", "React Native"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind", "Vanilla CSS"]
         },
         backEnd: {
             js: ["Node", "Express"],
-            databases: ["MongoDB", "Firebase"]
+            databases: ["MongoDB"]
         },
-        ai_ml: ["OpenCV", "MediaPipe", "TensorFlow"],
+        ai_ml: ["OpenCV", "MediaPipe"],
+        data:["Numpy", "Pandas"],
         devOps: ["Docker", "Vercel", "Netlify"],
-        tools: ["n8n", "Fusion360", "Postman"]
+        tools: ["n8n", "Fusion360", "Postman"],
+        extra: ["Playwright", "Selenium", "Beautifullsoup"]
     },
+
     
     currentFocus: "Merging AI with Human Biology",
     
@@ -167,11 +168,9 @@ const shivam = {
 
 ### 🌸 `Join My Guild`
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dtushivamkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+<a href="mailto:shivamcodelog.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/shivamcrafts_"><img src="https://img.shields.io/badge/X-EA4335?style=for-the-badge&logo=x&logoColor=black"/></a>
 
 </div>
 
@@ -192,9 +191,7 @@ const shivam = {
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
- ║   "In a world of 1s and 0s, I choose to be infinity."           ║
- ║                                                                  ║
- ║                              — シヴァム                           ║
+ ║                            "stay awesome "                       ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
