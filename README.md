@@ -1,12 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,9,5&text=シヴァム&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SHIVAM%20|%20Digital%20Architect%20|%20DTU&descAlignY=55&descSize=18" width="100%"/>
+
 
 <div align="center">
 
 ```diff
-@@                   Welcome to my Digital Realm                    @@
+@@                   hello universe                    @@
+
+# i know of no better life purpose than to perish in attempting the greate and the impossible  #
+
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=500&color=E94560&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%E3%80%8C+Mechanical+Engineer+%40+DTU+%7C+Full+Stack+Artisan+%7C+AI+Visionary+%E3%80%8D;%E2%9C%A6+Crafting+the+future+where+Code+meets+Consciousness+%E2%9C%A6" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=sarif&weight=600&size=22&duration=3000&pause=500&color=E94560&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=%E3%80%8C+Mechanical+Engineer+%40+DTU+%7C+Full+Stack+Artisan+%7C+AI+Visionary+%E3%80%8D;%E2%9C%A6+Crafting+the+future+where+Code+meets+Consciousness+%E2%9C%A6" alt="Typing SVG" />  -->
 
 </div>
 
@@ -15,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⛩️ `> whoami`
+### ⛩️ `> who am i`
 
 ```yaml
 name: "Shivam"
