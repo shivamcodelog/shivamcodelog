@@ -113,20 +113,21 @@ current_quest:
 ```javascript
 const shivam = {
     
-    code: ["JavaScript", "Python", "C"],
+    code: ["JavaScript","TypeScript" "Python", "C" ],
     
     technologies: {
         frontEnd: {
             js: ["React", "React Native"],
-            css: ["Tailwind", "Vanilla CSS"]
+            css: ["Tailwind", "Vanilla CSS"],
+            extra: ["chalk" , "figlet" ,"clack" ,"TUI"]
         },
         backEnd: {
-            js: ["Node", "Express"],
-            databases: ["MongoDB"]
+            js: ["Node", "Express" , "Bun"],
+            databases: ["MongoDB" , "Sqlite"]
         },
-        ai_ml: ["OpenCV", "MediaPipe"],
+        ai_ml: ["OpenCV", "MediaPipe" ,"Ai.sdk"],
         data:["Numpy", "Pandas"],
-        devOps: ["Docker", "Vercel", "Netlify"],
+        devOps: ["Docker", "Vercel", "Netlify","Railway" ,"Render"],
         tools: ["n8n", "Fusion360", "Postman"],
         extra: ["Playwright", "Selenium", "Beautifullsoup"]
     },
@@ -144,7 +145,7 @@ const shivam = {
 | 🎌 Attribute | ⚡ Status |
 |:------------|:---------|
 | `Specialization` | MERN Stack & Mobile Dev |
-| `Side Quest` | Computer Vision Projects |
+| `Side Quest` | Computer Vision , web Scraping & Automation |
 | `Dream` | BCI & Bionics Revolution |
 | `Power Level` | Over 9000! |
 | `Status` | Open for Freelance ✅ |
