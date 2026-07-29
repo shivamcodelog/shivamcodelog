@@ -113,7 +113,7 @@ current_quest:
 ```javascript
 const shivam = {
     
-    code: ["JavaScript","TypeScript" "Python", "C" ],
+    code: ["JavaScript","TypeScript" "Python", "C" , SQL ],
     
     technologies: {
         frontEnd: {
@@ -123,7 +123,7 @@ const shivam = {
         },
         backEnd: {
             js: ["Node", "Express" , "Bun"],
-            databases: ["MongoDB" , "Sqlite"]
+            databases: ["MongoDB" , "Sqlite" , PostgreSQL]
         },
         ai_ml: ["OpenCV", "MediaPipe" ,"Ai.sdk"],
         data:["Numpy", "Pandas"],
